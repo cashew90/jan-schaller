@@ -1,0 +1,78 @@
+baseurl = "https://jan-schaller.eu"
+title = "Home"
+theme = "hugo-coder"
+languagecode = "de"
+defaultcontentlanguage = "de"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Jan Schaller"
+    info = "Politikwissenschaftler | Migrationsforschung | digitales Arbeiten"
+    description = "Persönliche Website von Jan Schaller"
+    keywords = "blog,research,personal"
+    avatarurl = "images/avatar.jpg"
+
+   # favicon_32 = "/img/favicon-32x32.png"
+   # favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "Zwerge auf den Schultern von Riesen"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Perma links
+[permalinks]
+	pages = "/:title/" 
+
+# Social links
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 1
+    url = "https://twitter.com/times_reader"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 2
+    url = "https://www.linkedin.com/in/jan-schaller-883459137/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    weight = 3
+    url = "https://instagram.com/papierlos_studieren/"
+
+# Menu links
+[[menu.main]]
+    name = "Über mich"
+    weight = 1
+    url = "/Lebenslauf/"
+[[menu.main]]
+#    name = "Wissenschaft"
+    weight = 2
+    url = ""
+[[menu.main]]
+    name = "Papierlos Arbeiten"
+    weight = 3
+    url  = "https://papierlos-studieren.net"
+
+[[menu.main]]
+#    name = "Texte"
+    weight = 4
+    url = "/posts/"
+[[menu.main]]
+    name = "Kontakt"
+    weight = 5
+    url = "mailto:redaktion@papierlos-studieren.net"
