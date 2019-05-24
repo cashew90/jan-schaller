@@ -1,9 +1,9 @@
-baseurl = "https://cashew90.github.io/jan-schaller"
+baseurl = "https://jan-schaller.eu"
 title = "Home"
 theme = "hugo-coder"
 languagecode = "de"
-defaultcontentlanguage = "deshsad"
-publishDir = "docs"
+defaultcontentlanguage = "de"
+
 paginate = 20
 canonifyurls = true
 
@@ -31,7 +31,7 @@ disqusShortname = "yourdiscussshortname"
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    custom_css = ["css/coder.min.28d751104f30c16da1aa1bb04015cbe662cacfe0d1b01af4f2240ad58580069c.css"]
 
 # Perma links
 [permalinks]
