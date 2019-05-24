@@ -3,21 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cashew90.github.io/jan-schaller/categories/</loc>
+    <loc>https://jan-schaller.eu/lebenslauf/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cashew90.github.io/jan-schaller/</loc>
+    <loc>https://jan-schaller.eu/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cashew90.github.io/jan-schaller/lebenslauf/</loc>
+    <loc>https://jan-schaller.eu/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cashew90.github.io/jan-schaller/tags/</loc>
+    <loc>https://jan-schaller.eu/tags/</loc>
     <priority>0</priority>
   </url>
   
