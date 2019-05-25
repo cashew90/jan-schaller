@@ -28,7 +28,7 @@ disqusShortname = "yourdiscussshortname"
     footercontent = "Zwerge auf den Schultern von Riesen"
 
     hidecredits = false
-    hidecopyright = false
+    hidecopyright = true
 
     rtl = false
 
@@ -77,4 +77,8 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Kontakt"
     weight = 5
-    url = "mailto:redaktion@papierlos-studieren.net"
+    url = "/Kontakt/"
+[[menu.main]]
+    name = "Impressum"
+    weight = 6
+    url = "/Impressum/"
