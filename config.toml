@@ -62,9 +62,9 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
     url = "/Lebenslauf/"
 [[menu.main]]
-#    name = "Wissenschaft"
+    name = "Wissenschaft"
     weight = 2
-    url = ""
+    url = "https://www.hszg.de/trawos/projekte/soziale-integration-ohne-eliten.html"
 [[menu.main]]
     name = "Papierlos Arbeiten"
     weight = 3
