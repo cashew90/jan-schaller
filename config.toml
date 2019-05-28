@@ -82,3 +82,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Impressum"
     weight = 6
     url = "/Impressum/"
+[[menu.main]]
+    name = "Datenschutz"
+    weight = 7
+    url = "/datenschutzerklärung/"
