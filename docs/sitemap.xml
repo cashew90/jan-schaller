@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jan-schaller.eu/datenschutzerkla%CC%88rung/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jan-schaller.eu/impressum/</loc>
     <priority>0</priority>
   </url>
