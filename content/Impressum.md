@@ -3,8 +3,9 @@
 ## Angaben gemäß § 5 TMG
 
 Jan Schaller
-Havensteinstr. 6
-12249 Berlin
+AMN Data Solution #530018
+Glogauer Str. 5
+10999 Berlin
 
 ## Kontakt
 
@@ -13,8 +14,9 @@ E-Mail: jan-schaller@mailbox.org
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
 Jan Schaller
-Havensteinstr. 6
-12249 Berlin
+AMN Data Solution #530018
+Glogauer Str. 5
+10999 Berlin
 
 ## Streitschlichtung
 

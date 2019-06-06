@@ -75,14 +75,18 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
     url = "/posts/"
 [[menu.main]]
-    name = "Kontakt"
+    name = "Podcast"
     weight = 5
+    url = "https://anchor.fm/wwnsw"
+[[menu.main]]
+    name = "Kontakt"
+    weight = 6
     url = "/Kontakt/"
 [[menu.main]]
     name = "Impressum"
-    weight = 6
+    weight = 7
     url = "/Impressum/"
 [[menu.main]]
     name = "Datenschutz"
-    weight = 7
+    weight = 8
     url = "/datenschutzerklärung/"
