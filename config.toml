@@ -64,20 +64,19 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Wissenschaft"
     weight = 2
-    url = "https://www.hszg.de/trawos/projekte/soziale-integration-ohne-eliten.html"
+    url = "https://trawos.hszg.de/de/projekte-publikationen/aktuelle-projekte/soziale-integration-ohne-eliten.html"
 [[menu.main]]
     name = "Papierlos Arbeiten"
     weight = 3
     url  = "https://papierlos-studieren.net"
-
-[[menu.main]]
+#[[menu.main]]
 #    name = "Texte"
-    weight = 4
-    url = "/posts/"
+#    weight = 4
+#    url = "/posts/"
 [[menu.main]]
-    name = "Podcast"
+    name = "Buch (utb)"
     weight = 5
-    url = "https://anchor.fm/wwnsw"
+    url = "https://www.utb-shop.de/catalog/product/view/id/11143/"
 [[menu.main]]
     name = "Kontakt"
     weight = 6
