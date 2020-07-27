@@ -9,7 +9,7 @@ Glogauer Str. 5
 
 ## Kontakt
 
-E-Mail: jan-schaller@mailbox.org
+E-Mail: kontakt@jan-schaller.eu
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
