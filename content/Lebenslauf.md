@@ -2,7 +2,7 @@
 
 ## Akademischer und beruflicher Werdegang
 
-+ seit 11/2018: wissenschaftlicher Mitarbeiter am [Institut für Transformation, Wohnen und soziale Raumentwicklung (TRAWOS)](https://www.hszg.de/trawos/) an der Hochschule Zittau/Görlitz im Forschungsprojekt [Soziale Integration ohne Eliten?](https://www.hszg.de/trawos/projekte/soziale-integration-ohne-eliten.html)
++ 11/2018 – 12/2020: wissenschaftlicher Mitarbeiter am [Institut für Transformation, Wohnen und soziale Raumentwicklung (TRAWOS)](https://www.hszg.de/trawos/) an der Hochschule Zittau/Görlitz im Forschungsprojekt [Soziale Integration ohne Eliten?](https://www.hszg.de/trawos/projekte/soziale-integration-ohne-eliten.html)
 
 + seit 9/2018: Promotion am [Institut für Migrationsforschung und Interkulturelle Studien](https://www.imis.uni-osnabrueck.de/startseite.html) der Universität Osnabrück, Thema: _Machtverhältnisse im europäischen Migrationsregime: Hotspots als Orte der (informellen) Aushandlung?_
 
