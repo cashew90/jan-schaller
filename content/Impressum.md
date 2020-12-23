@@ -2,10 +2,10 @@
 
 ## Angaben gemäß § 5 TMG
 
-Jan Schaller
-AMN Data Solution #530018
-Glogauer Str. 5
-10999 Berlin
+<p>Jan Schaller</p>
+<p>Postbox 530018</p>
+<p>11516 Berlin</p>
+
 
 ## Kontakt
 
@@ -13,9 +13,10 @@ E-Mail: kontakt@jan-schaller.eu
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Jan Schaller
-Postbox 530018
-11516 Berlin
+<p>Jan Schaller</p>
+<p>Postbox 530018</p>
+<p>11516 Berlin</p>
+
 
 ## Streitschlichtung
 
