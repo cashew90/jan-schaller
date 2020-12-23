@@ -14,9 +14,8 @@ E-Mail: kontakt@jan-schaller.eu
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
 Jan Schaller
-AMN Data Solution #530018
-Glogauer Str. 5
-10999 Berlin
+Postbox 530018
+11516 Berlin
 
 ## Streitschlichtung
 
