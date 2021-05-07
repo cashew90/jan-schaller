@@ -15,8 +15,7 @@
 - Migration in Europa: Regime, Akteure, Machtdynamiken
 - Border Studies/Critical Migration Studies
 - das Mehrebenensystem der EU
-- Eliten in Deutschland
-- Sozialstruktur Ostdeutschlands
+
 
 ## Freiberuflichkeit & weitere Projekte
 
@@ -26,13 +25,14 @@
 
 + seit 2017: [undogmatisch – der Podcast für Politisches](https://anchor.fm/undogmatisch)
 
-+ **Buchveröffentlichung:** 
-
-[Deutschland #undogmatisch – Reflexionen aus den Jahren 2014 – 2020](https://www.buechner-verlag.de/buch/deutschland-undogmatisch)
-
-[Papierlos studieren: wissenschaftlich arbeiten in digitalen Zeiten](https://www.utb-shop.de/catalog/product/view/id/11143/)
-
 + seit 2018: Autor für [macwelt.de](https://www.macwelt.de)
+
+**Buchveröffentlichung:** 
+
++ [Deutschland #undogmatisch – Reflexionen aus den Jahren 2014 – 2020](https://www.buechner-verlag.de/buch/deutschland-undogmatisch)
++ [Papierlos studieren: wissenschaftlich arbeiten in digitalen Zeiten](https://www.utb-shop.de/catalog/product/view/id/11143/)
+
+
 
 
 

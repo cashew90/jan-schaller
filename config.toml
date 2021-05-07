@@ -44,17 +44,13 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 1
-    url = "https://twitter.com/times_reader"
+    url = "https://twitter.com/_janschaller"
 [[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin fa-2x"
+    name = "Research Gate"
+    icon = "fab fa-researchgate fa-2x"
     weight = 2
-    url = "https://www.linkedin.com/in/jan-schaller-883459137/"
-[[params.social]]
-    name = "Instagram"
-    icon = "fab fa-instagram fa-2x"
-    weight = 3
-    url = "https://instagram.com/papierlos_studieren/"
+    url = "https://www.researchgate.net/profile/Jan-Schaller"
+
 
 # Menu links
 [[menu.main]]
@@ -64,28 +60,32 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Wissenschaft"
     weight = 2
-    url = "https://trawos.hszg.de/de/projekte-publikationen/aktuelle-projekte/soziale-integration-ohne-eliten.html"
+    url = "https://trawos.hszg.de/projekte-publikationen/aktuelle-projekte/soziale-integration-ohne-eliten"
 [[menu.main]]
     name = "Papierlos Arbeiten"
     weight = 3
     url  = "https://papierlos-studieren.net"
-#[[menu.main]]
-#    name = "Texte"
-#    weight = 4
-#    url = "/posts/"
 [[menu.main]]
     name = "Buch (utb)"
-    weight = 5
+    weight = 4
     url = "https://www.utb-shop.de/catalog/product/view/id/11143/"
 [[menu.main]]
-    name = "Kontakt"
+    name = "Texte"
+    weight = 5
+    url = "http://undogmatisch.net"
+[[menu.main]]
+    name = "Deutschland #undogmatisch"
     weight = 6
+    url = "https://www.buechner-verlag.de/buch/deutschland-undogmatisch"
+[[menu.main]]
+    name = "Podcast"
+    weight = 7
+    url = "https://anchor.fm/undogmatisch"
+[[menu.main]]
+    name = "Vorträge & Kontakt"
+    weight = 8
     url = "/Kontakt/"
 [[menu.main]]
-    name = "Impressum"
-    weight = 7
+    name = "Impressum & Datenschutz"
+    weight = 9
     url = "/Impressum/"
-[[menu.main]]
-    name = "Datenschutz"
-    weight = 8
-    url = "/datenschutzerklärung/"
