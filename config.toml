@@ -26,7 +26,6 @@ disqusShortname = "yourdiscussshortname"
    # favicon_16 = "/img/favicon-16x16.png"
 
     footercontent = "Zwerge auf den Schultern von Riesen"
-
     hidecredits = false
     hidecopyright = true
 
@@ -53,6 +52,7 @@ disqusShortname = "yourdiscussshortname"
 
 
 # Menu links
+
 [[menu.main]]
     name = "Über mich"
     weight = 1
@@ -64,28 +64,12 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Papierlos Arbeiten"
     weight = 3
-    url  = "https://papierlos-studieren.net"
+    url = "/papierlos-arbeiten/"
 [[menu.main]]
-    name = "Buch (utb)"
+    name = "Politische Texte"
     weight = 4
-    url = "https://www.utb-shop.de/catalog/product/view/id/11143/"
-[[menu.main]]
-    name = "Texte"
-    weight = 5
-    url = "http://undogmatisch.net"
-[[menu.main]]
-    name = "Deutschland #undogmatisch"
-    weight = 6
-    url = "https://www.buechner-verlag.de/buch/deutschland-undogmatisch"
-[[menu.main]]
-    name = "Podcast"
-    weight = 7
-    url = "https://anchor.fm/undogmatisch"
+    url = "/undogmatisch/"
 [[menu.main]]
     name = "Vorträge & Kontakt"
-    weight = 8
+    weight = 5
     url = "/Kontakt/"
-[[menu.main]]
-    name = "Impressum & Datenschutz"
-    weight = 9
-    url = "/Impressum/"

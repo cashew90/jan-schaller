@@ -20,12 +20,12 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Impressum &amp; Datenschutz</title>
       <link>https://jan-schaller.eu/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jan-schaller.eu/impressum/</guid>
-      <description>Impressum Angaben gemäß § 5 TMG Jan Schaller
+      <description>Angaben gemäß § 5 TMG Jan Schaller
 Postbox 530018
 11516 Berlin
 Kontakt E-Mail: kontakt@jan-schaller.eu
@@ -38,18 +38,7 @@ Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.</description
     </item>
     
     <item>
-      <title></title>
-      <link>https://jan-schaller.eu/kontakt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jan-schaller.eu/kontakt/</guid>
-      <description>Vorträge &amp;amp; Kontakt Für Anfragen aller Art schreiben Sie bitte eine Mail an folgende Adresse: kontakt@jan-schaller.eu
-Sie können mich z.B. für Vorträge, Interviews und Seminare zu Fragen des digitalen wissenschaftlichen Arbeitens und Studierens anfragen. Diese können sowohl sehr praxisorientiert sein, sich eher um konzeptuell-philosophische Fragen der Wissensaneignung unter digitalen Bedingungen drehen oder eine gesunde Mischung aus beidem darstellen.
-Des Weiteren sind Vorträge oder Seminare zu europäischer Migrationspolitik und insbesondere der Grenzschutzagentur Frontex möglich.</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Lebenslauf</title>
       <link>https://jan-schaller.eu/lebenslauf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -58,6 +47,40 @@ Des Weiteren sind Vorträge oder Seminare zu europäischer Migrationspolitik und
 Akademischer und beruflicher Werdegang  11&amp;frasl;2018 – 12&amp;frasl;2020: wissenschaftlicher Mitarbeiter am Institut für Transformation, Wohnen und soziale Raumentwicklung (TRAWOS) an der Hochschule Zittau/Görlitz im Forschungsprojekt Soziale Integration ohne Eliten?
  seit 6&amp;frasl;2020: Promotion am Institut für Migrationsforschung und Interkulturelle Studien der Universität Osnabrück, Thema: Machtverhältnisse im europäischen Migrationsregime: Hotspots als Orte der (informellen) Aushandlung?
  2016 - 2018: zunächst Studentischer Mitarbeiter, dann Associate to the President an der Hertie School of Governance</description>
+    </item>
+    
+    <item>
+      <title>Papierlos Arbeiten</title>
+      <link>https://jan-schaller.eu/papierlos-arbeiten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jan-schaller.eu/papierlos-arbeiten/</guid>
+      <description>Neben meiner wissenschaftlichen und politischen Arbeit, befasse ich mich mit Wegen des digitalen, wissenschaftlichen Arbeitens. Es geht mir hierbei zum einen um passende Apps und Workflows, zum anderen aber auch um tiefergehende Fragen. Dazu gehört zum Beispiel, welche Auswirkungen die Digitalisierung auf Wissensarbeiter:innen hat oder wie es möglich wird, die Möglichkeiten des Digitalen so zu nutzen, dass ein echter Mehrwert im Vergleich zum Analogen entsteht.
+Darüber schreibe ich auf meinem Blog:</description>
+    </item>
+    
+    <item>
+      <title>Politische Kommentare &amp; Analysen</title>
+      <link>https://jan-schaller.eu/undogmatisch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jan-schaller.eu/undogmatisch/</guid>
+      <description>Was wäre ein Politkwissenschaftler, der sich nicht politisch äußert? Genau. Und deswegen schreibe und spreche ich regelmäßig über das politische Zeitgeschehen. Zu lesen/hören ist das:
+ im Buch Deutschland #undogmatisch – Reflexionen aus den Jahren 2014 – 2020, erschienen im Büchner Verlag, gemeinsam geschrieben mit Sebastian Kunze
+ auf dem Blog undogmatisch – Blog für Politisches
+ im Podcast undogmatisch – der Podcast für Politisches
+  </description>
+    </item>
+    
+    <item>
+      <title>Vorträge &amp; Kontakt</title>
+      <link>https://jan-schaller.eu/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jan-schaller.eu/kontakt/</guid>
+      <description>Für Anfragen aller Art schreiben Sie bitte eine Mail an folgende Adresse: kontakt@jan-schaller.eu
+Sie können mich z.B. für Vorträge, Interviews und Seminare zu Fragen des digitalen wissenschaftlichen Arbeitens und Studierens anfragen. Diese können sowohl sehr praxisorientiert sein, sich eher um konzeptuell-philosophische Fragen der Wissensaneignung unter digitalen Bedingungen drehen oder eine gesunde Mischung aus beidem darstellen.
+Des Weiteren sind Vorträge oder Seminare zu europäischer Migrationspolitik und insbesondere der Grenzschutzagentur Frontex möglich.</description>
     </item>
     
   </channel>
